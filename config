@@ -1,6 +1,6 @@
 paths = [
     "cairo",
-    "cairo/cairo-sys",
+    "cairo/cairo-sys-rs",
     "gdk",
     "gdk/gdk-sys",
     "glib",
