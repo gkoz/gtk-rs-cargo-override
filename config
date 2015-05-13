@@ -1,12 +1,7 @@
 paths = [
     "cairo",
-    "cairo/cairo-sys-rs",
     "gdk",
-    "gdk/gdk-sys",
     "glib",
-    "glib/glib-sys",
     "gtk",
-    "gtk/gtk-sys",
     "pango",
-    "pango/pango-sys",
 ]
